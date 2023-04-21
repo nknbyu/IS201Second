@@ -1,0 +1,77 @@
+body{
+    text-align:center;
+    font-family:'Times New Roman', Times, serif;
+    margin: 0px;
+    border: 0px slategray;
+    padding: 0px; 
+}
+h1{
+    font-size: 90px;
+    color: azure;
+}
+h2{
+    font-size: 40px;
+    color: azure;
+}
+h3{
+    color: azure;
+}
+h4{
+    color: azure;
+}
+.emphasizedText{
+    font-style: normal; color:black;
+    font-weight: bold;
+    color: azure;
+}
+ol{
+    font-weight:bolder;
+    list-style:none;
+    font-size: 20px;
+    color: azure;
+    
+}
+ul{
+    font-weight:200;
+    list-style: inside; 
+    color: azure;
+}
+div{
+    align-items: center;
+    color: azure;
+}
+.common{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.Head{
+    height: 200px;
+    background-color: rgb(156, 156, 156);
+    color: azure;
+    font-size: large;
+}
+.MB{
+    background-color: slategray;
+
+}
+.footer{
+    background-color: rgb(156, 156, 156);
+    height: 30px;
+    color: azure;
+}
+nav{
+    background-color: rgb(128, 139, 150);
+    padding: 10px;
+    overflow: hidden;
+}
+nav a{
+    float: left;
+    color: azure;
+    padding: 10px 13px;
+    text-decoration: none;
+    font-weight: bold;
+}
+nav a:hover{
+    background-color: grey;
+
+}
